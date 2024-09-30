@@ -101,6 +101,7 @@ git clone https://github.com/harshini8-10/FastFoodClustering.git
 •  Follow along with the embedded code to understand the clustering techniques used.
 # 7. Clustering Process and Analysis:
 The clustering process involved:
+
 •	Data Preprocessing – Including scaling and imputation.
 
 •	Dimensionality Reduction – Visualizing the data using various embedding techniques.
