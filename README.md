@@ -59,3 +59,59 @@ o	t-SNE
 8.	Results
 9.	Conclusion
 
+# 1.	Introduction
+The goal of this project is to explore clustering models on the FastFood dataset. The dataset includes nutritional values such as total fat, trans fat, and calories. Clustering models were used to group food items based on these characteristics, providing insights into nutritional patterns among fast food offerings.
+
+# 2.	Project Objectives
+•  Apply dimensionality reduction techniques to visualize the data.
+
+•  Use clustering algorithms to categorize food items into meaningful groups.
+
+•  Analyze the resulting clusters and identify relationships among different fast food items.
+
+# 3.	Project Scope
+
+•  Dataset: fastfood.csv dataset (CSV file).
+•  Clustering Methods: K-Means, DBSCAN, Agglomerative Clustering.
+
+•  Embedding Methods: PCA, UMAP, MDS, IsoMAP, Spectral Embedding, t-SNE.
+
+•  Tools: Python, Jupyter Notebook
+# 4.	Methodology
+## Data Preprocessing:
+•	Handle missing values with imputation.
+
+•	Scale numeric features using RobustScaler and StandardScaler.
+
+•	Apply PowerTransformer for normalization.
+
+
+## Dimensionality Reduction:
+•	Use PCA and UMAP to explore linear and non-linear structures in the data.
+## Clustering:
+•	Evaluate K-Means, DBSCAN, and Agglomerative Clustering models.
+
+•	Compare clustering performance using silhouette scores and cluster visualization.
+# 5.	How to Install and Run the Project
+•	Clone the Repository:
+git clone https://github.com/yourusername/FastFoodClustering.git
+# 6.	How to Use the Project:
+•  The Jupyter notebook guides you through data exploration, preprocessing/ feature engineering techniques, and model training.
+
+•  Follow along with the embedded code to understand the clustering techniques used.
+# 7. Clustering Process and Analysis:
+The clustering process involved:
+•	Data Preprocessing – Including scaling and imputation.
+
+•	Dimensionality Reduction – Visualizing the data using various embedding techniques.
+
+•	Clustering – Building models with K-Means, DBSCAN, and Agglomerative Clustering.
+
+•	Cluster Evaluation – Using silhouette scores and visualization to compare cluster quality.
+# 8. Results:
+•	Best Embedding – UMAP provided the clearest separation of clusters in a non-linear structure.
+
+•	Dimensionality Reduction – DBSCAN was chosen due to its ability to detect outliers and form well-defined clusters.
+
+# 9. Conclusion:
+This project demonstrated the effective use of clustering models on a nutritional dataset. DBSCAN was the most suitable clustering method for this task, identifying distinct groups of food items based on their nutritional content.
