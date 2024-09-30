@@ -9,3 +9,52 @@ This project involves the application of clustering techniques on the Fast Food 
 •	 Clustering: Apply K-Means, DBSCAN, and Agglomerative Clustering to the embedded data.
 
 •	        Cluster Analysis: Evaluate clustering solutions and analyze cluster memberships to determine the best model.
+
+# Technologies Used :
+## Python Libraries 
+•  Pandas: Data manipulation
+
+•  Scikit-learn: Clustering and embeddings
+
+•  Seaborn, Matplotlib: Visualization
+
+•  UMAP, TSNE: Advanced embeddings
+
+## Clustering Models:
+o	K-Means
+
+o	DBSCAN
+
+
+o	Agglomerative Clustering
+
+## Embedding Techniques: 
+o	PCA
+
+o	UMAP 
+
+
+o	MDS 
+
+o	IsoMAP 
+
+
+o	Spectral Embedding 
+
+o	t-SNE
+
+# Challenges and Future Work :
+•	Challenges: Handling high-dimensional data, selecting optimal clustering algorithms for non-linear data, and evaluating cluster quality.
+•	Future Work: Explore additional clustering techniques (e.g., Gaussian Mixture Models), tune hyperparameters for DBSCAN, and apply clustering to a broader range of datasets for validation.
+
+# Table of Contents :
+1.	Introduction
+2.	Project Objectives
+3.	Project Scope
+4.	Methodology
+5.	How to Install and Run the Project
+6.	How to Use the Project
+7.	Clustering Process and Analysis
+8.	Results
+9.	Conclusion
+
