@@ -94,7 +94,7 @@ The goal of this project is to explore clustering models on the FastFood dataset
 •	Compare clustering performance using silhouette scores and cluster visualization.
 # 5.	How to Install and Run the Project
 •	Clone the Repository:
-git clone https://github.com/yourusername/FastFoodClustering.git
+git clone https://github.com/harshini8.10/FastFoodClustering.git
 # 6.	How to Use the Project:
 •  The Jupyter notebook guides you through data exploration, preprocessing/ feature engineering techniques, and model training.
 
