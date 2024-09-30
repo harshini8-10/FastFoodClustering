@@ -45,6 +45,7 @@ o	t-SNE
 
 # Challenges and Future Work :
 •	Challenges: Handling high-dimensional data, selecting optimal clustering algorithms for non-linear data, and evaluating cluster quality.
+
 •	Future Work: Explore additional clustering techniques (e.g., Gaussian Mixture Models), tune hyperparameters for DBSCAN, and apply clustering to a broader range of datasets for validation.
 
 # Table of Contents :
